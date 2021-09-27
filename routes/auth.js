@@ -7,6 +7,7 @@ const jwt = require('jsonwebtoken');
 const { check, validationResult } = require('express-validator');
 
 
+
 // route GET api/auth
 // Get Logged in User
 // Private Access

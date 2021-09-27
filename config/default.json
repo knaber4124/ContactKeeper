@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://knaber4124:mongoKnaber1@Contact-Keeper.2boah.mongodb.net/Contact-Keeper?retryWrites=true&w=majority",
+    // "mongoURI": "mongodb+srv://knaber4124:mongoKnaber1@Contact-Keeper.2boah.mongodb.net/Contact-Keeper?retryWrites=true&w=majority",
     "jwtSecret":"secret"
 }
